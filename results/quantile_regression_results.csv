@@ -1,0 +1,73 @@
+quantile,variable,category,coefficient,p_value,significant
+0.1,Age,Age,22.71,<0.0001,Yes
+0.2,Age,Age,2.64,0.4117,No
+0.3,Age,Age,-12.15,0.00021,Yes
+0.4,Age,Age,-22.01,<0.0001,Yes
+0.5,Age,Age,-30.66,<0.0001,Yes
+0.6,Age,Age,-46.02,<0.0001,Yes
+0.7,Age,Age,-54.24,<0.0001,Yes
+0.8,Age,Age,-62.18,<0.0001,Yes
+0.9,Age,Age,-77.64,<0.0001,Yes
+0.1,Gender,Male,614.78,<0.0001,Yes
+0.2,Gender,Male,643.84,<0.0001,Yes
+0.3,Gender,Male,603.62,<0.0001,Yes
+0.4,Gender,Male,546.09,<0.0001,Yes
+0.5,Gender,Male,446.36,<0.0001,Yes
+0.6,Gender,Male,440.76,<0.0001,Yes
+0.7,Gender,Male,470.18,<0.0001,Yes
+0.8,Gender,Male,404.16,0.00547,Yes
+0.9,Gender,Male,172.24,0.37019,No
+0.1,Education,Secondary,1765.82,<0.0001,Yes
+0.2,Education,Secondary,1517.40,<0.0001,Yes
+0.3,Education,Secondary,1320.15,<0.0001,Yes
+0.4,Education,Secondary,1359.29,<0.0001,Yes
+0.5,Education,Secondary,1470.64,<0.0001,Yes
+0.6,Education,Secondary,1472.02,<0.0001,Yes
+0.7,Education,Secondary,1487.18,<0.0001,Yes
+0.8,Education,Secondary,1606.53,<0.0001,Yes
+0.9,Education,Secondary,1777.58,<0.0001,Yes
+0.1,Education,Higher,2802.93,<0.0001,Yes
+0.2,Education,Higher,2687.67,<0.0001,Yes
+0.3,Education,Higher,2667.50,<0.0001,Yes
+0.4,Education,Higher,2995.21,<0.0001,Yes
+0.5,Education,Higher,3305.22,<0.0001,Yes
+0.6,Education,Higher,3232.04,<0.0001,Yes
+0.7,Education,Higher,3344.70,<0.0001,Yes
+0.8,Education,Higher,3714.23,<0.0001,Yes
+0.9,Education,Higher,4577.04,<0.0001,Yes
+0.1,Housing Tenure,Mortgage Owner,843.03,<0.0001,Yes
+0.2,Housing Tenure,Mortgage Owner,563.89,0.000156,Yes
+0.3,Housing Tenure,Mortgage Owner,357.58,0.00860,Yes
+0.4,Housing Tenure,Mortgage Owner,263.78,0.0809,No
+0.5,Housing Tenure,Mortgage Owner,201.14,0.2382,No
+0.6,Housing Tenure,Mortgage Owner,60.13,0.7561,No
+0.7,Housing Tenure,Mortgage Owner,149.95,0.4906,No
+0.8,Housing Tenure,Mortgage Owner,90.14,0.7201,No
+0.9,Housing Tenure,Mortgage Owner,-67.07,0.8377,No
+0.1,Housing Tenure,Renter,-948.41,<0.0001,Yes
+0.2,Housing Tenure,Renter,-705.70,0.00023,Yes
+0.3,Housing Tenure,Renter,-677.22,0.00032,Yes
+0.4,Housing Tenure,Renter,-723.02,<0.0001,Yes
+0.5,Housing Tenure,Renter,-659.99,0.00138,Yes
+0.6,Housing Tenure,Renter,-754.56,0.00264,Yes
+0.7,Housing Tenure,Renter,-710.34,0.00013,Yes
+0.8,Housing Tenure,Renter,-831.64,0.00132,Yes
+0.9,Housing Tenure,Renter,-922.20,0.00348,Yes
+0.1,Housing Tenure,Reduced Rent,-1459.69,<0.0001,Yes
+0.2,Housing Tenure,Reduced Rent,-1113.12,0.2974,No
+0.3,Housing Tenure,Reduced Rent,-1430.16,0.0277,Yes
+0.4,Housing Tenure,Reduced Rent,-1037.97,0.00280,Yes
+0.5,Housing Tenure,Reduced Rent,-1102.90,<0.0001,Yes
+0.6,Housing Tenure,Reduced Rent,-1375.18,<0.0001,Yes
+0.7,Housing Tenure,Reduced Rent,-1901.65,<0.0001,Yes
+0.8,Housing Tenure,Reduced Rent,-2633.37,0.00075,Yes
+0.9,Housing Tenure,Reduced Rent,-2819.78,<0.0001,Yes
+0.1,Housing Tenure,Free Housing,-1682.45,0.1241,No
+0.2,Housing Tenure,Free Housing,-749.43,<0.0001,Yes
+0.3,Housing Tenure,Free Housing,-541.29,0.0902,No
+0.4,Housing Tenure,Free Housing,-563.20,0.1983,No
+0.5,Housing Tenure,Free Housing,-447.21,0.1075,No
+0.6,Housing Tenure,Free Housing,-695.92,0.0779,No
+0.7,Housing Tenure,Free Housing,-770.61,0.00716,Yes
+0.8,Housing Tenure,Free Housing,-845.69,0.2670,No
+0.9,Housing Tenure,Free Housing,-1200.01,0.6209,No
