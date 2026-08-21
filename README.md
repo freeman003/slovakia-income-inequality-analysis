@@ -2,7 +2,7 @@
 
 Quantitative analysis of income inequality in Slovakia using **R** and **quantile regression** to examine how socioeconomic factors are associated with income across different parts of the income distribution.
 
-The project is based on my bachelor's research in Economics and Management of Public Administration at the Technical University of Košice.
+The project is based on my bachelor's thesis in Economics and Management of Public Administration at the Technical University of Košice.
 
 ## Project Overview
 
