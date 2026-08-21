@@ -1,4 +1,4 @@
-# Income Inequality Analysis in Slovakia
+# Social stratification on income base
 
 Quantitative analysis of income inequality in Slovakia using **R** and **quantile regression** to examine how socioeconomic factors are associated with income across different parts of the income distribution.
 
